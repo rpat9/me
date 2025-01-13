@@ -1,12 +1,12 @@
-# Introductions (2024)
-This repository was created by Eric Pogue and ChatGPT to be a template for creating an "Introductions" website.
+# Introductions (2025)
+Eric Pogue and ChatGPT created this repository as a template for an "Introductions" website.
 
 Additional GitHub Page information can be found at [GitHub Pages](https://pages.github.com/). Also, there is a 5-minute 
 [Hello World with GitHub Pages](https://www.lewis.education/?cpsc=sp24-cpsc-20000-002#/activity/hello-world-web-part-1)
 video tutorial that was created for the Lewis University ”Introduction to Computer Science” class that might be helpful. 
 
 # Activity / Assignment
-Follow the instructions below to create your own personal Introductions webpage using GitHub Pages. As always, be careful 
+Follow the instructions below to create your own Introductions webpage using GitHub Pages. As always, be careful 
 about sharing confidential information. 
 
 ---
@@ -30,7 +30,7 @@ This is provided only as background. No action is needed on your part yet.
 
 ## ChatGPT responded with:
 As an AI, I don't have personal information such as a name, job title, or hobbies. However, I can create a template based on your 
-request. You can fill in your personal details where necessary. Below is a basic HTML and CSS code to create a webpage introducing 
+request. You can fill in your details where necessary. Below is a basic HTML and CSS code to create a webpage introducing 
 yourself:
 ```
 <!DOCTYPE html>
